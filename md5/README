@@ -1,0 +1,7 @@
+1. MD5Test.java contains a simple command line program that takes a word and returns its MD5 hash. 
+
+You can also verify by issuing the following command in your shell:
+
+    echo -n r41nb0w | md5sum
+
+2. dictionary directory contains the sample list of words, lowercase.rand. Another copy of the same file exists in the main source folder that is being used by the hash finder system to lookup hash.
